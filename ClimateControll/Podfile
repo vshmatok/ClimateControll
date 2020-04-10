@@ -1,0 +1,4 @@
+use_frameworks!
+target 'ClimateControll' do
+pod 'Firebase/Database'
+end
