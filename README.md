@@ -1,2 +1,2 @@
 # ClimateControll
-bachelor's degree project
+Bachelor degree iOS Application written in Swift language
